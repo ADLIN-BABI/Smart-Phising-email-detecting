@@ -1,0 +1,12 @@
+tensorflow==2.19.0
+streamlit==1.35.0
+shap==0.45.0
+lime==0.2.0.1
+nltk==3.8.1
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.8.4
+seaborn==0.13.2
+wordcloud==1.9.3
+scikit-learn==1.4.2
+joblib==1.4.2
