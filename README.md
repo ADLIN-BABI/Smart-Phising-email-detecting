@@ -1,0 +1,3 @@
+# Spam Email Phishing Detector
+# Project Description
+My project aims to detect phishing emails using advanced Natural Language Processing (NLP) and deep learning techniques. It involves preprocessing raw email text data, performing exploratory analysis (like word clouds and sentiment analysis), and training multiple deep learning models including GRU and BiLSTM to classify emails as phishing or safe. The trained models are evaluated using accuracy, loss, confusion matrix, and classification reports. The best-performing model is integrated into a user-friendly web application using Streamlit, allowing users to input email text and receive real-time predictions.
