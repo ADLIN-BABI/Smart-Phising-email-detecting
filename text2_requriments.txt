@@ -1,0 +1,14 @@
+streamlit==1.30.0
+tensorflow==2.19.0
+scikit-learn
+pandas
+matplotlib
+seaborn
+numpy
+nltk
+joblib
+Pillow
+rich
+markdown-it-py
+mdurl
+pygments
