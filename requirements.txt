@@ -1,4 +1,4 @@
-tensorflow==2.19.0
+tensorflow==2.20.0rc0
 streamlit==1.35.0
 shap==0.45.0
 lime==0.2.0.1
